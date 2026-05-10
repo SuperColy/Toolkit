@@ -9,9 +9,6 @@ Un toolkit potente e leggero basato su PowerShell per l'ottimizzazione e la manu
 - **Sicurezza**: Avvio rapido di scansioni Windows Defender.
 - **Diagnostica Batteria**: Generazione automatica del report salute della batteria sul Desktop.
 
-## 📸 Anteprima UI
-L'interfaccia è progettata in **Dark Mode** con accenti Ciano per una leggibilità ottimale in stile "Cyber".
-
 ## 💻 Requisiti
 - Windows 10 o Windows 11.
 - PowerShell 5.1 o superiore.
